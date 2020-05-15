@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite1" duration-ms="54" started-at="2020-05-15T06:17:35Z" finished-at="2020-05-15T06:17:35Z">
+    <groups>
+    </groups>
+    <test name="Testngtest" duration-ms="54" started-at="2020-05-15T06:17:35Z" finished-at="2020-05-15T06:17:35Z">
+      <class name="com.qa.testjava.Program1">
+        <test-method status="PASS" signature="condition()[pri:0, instance:com.qa.testjava.Program1@181ae3f]" name="condition" duration-ms="5" started-at="2020-05-15T06:17:35Z" finished-at="2020-05-15T06:17:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- condition -->
+      </class> <!-- com.qa.testjava.Program1 -->
+      <class name="com.qa.testjava.Program2">
+        <test-method status="PASS" signature="operator()[pri:0, instance:com.qa.testjava.Program2@238e3f]" name="operator" duration-ms="1" started-at="2020-05-15T06:17:35Z" finished-at="2020-05-15T06:17:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- operator -->
+      </class> <!-- com.qa.testjava.Program2 -->
+    </test> <!-- Testngtest -->
+  </suite> <!-- Suite1 -->
+</testng-results>
