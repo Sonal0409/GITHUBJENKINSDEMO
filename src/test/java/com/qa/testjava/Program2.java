@@ -33,6 +33,7 @@ public class Program2 {
 		// we are concatinating the message with variable
 		
 		System.out.println("The out of addition of a and b is :" + sum);
+		System.out.println("The out of addition of a and b is :" + sum);
 		
 		System.out.println(a+b);
 		
